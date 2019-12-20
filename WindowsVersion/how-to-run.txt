@@ -1,0 +1,1 @@
+just install python from python.org. Then run .exe file.
